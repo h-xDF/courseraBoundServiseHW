@@ -1,0 +1,2 @@
+rootProject.name='boundServiceHW2'
+include ':app'
