@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">boundServiceHW2</string>
+    <string name="degradation">degradation</string>
 </resources>
